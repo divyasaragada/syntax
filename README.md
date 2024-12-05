@@ -1,4 +1,3 @@
-# syntax
 repo contains markdown syntax
 HEADINgs
 -
